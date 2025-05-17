@@ -56,5 +56,16 @@ Using 1,000 samples from the Alpaca dataset:
 
 ---
 
+## 💡 Key Skills Demonstrated
+
+- [x] Efficient fine-tuning of LLMs under resource constraints
+- [x] Instruction-following prompt formatting (Alpaca-style)
+- [x] 4-bit quantization with BitsAndBytes
+- [x] Prompt engineering and masking for causal LM
+- [x] Metric-based evaluation (ROUGE)
+- [x] Clean code organization with logging and checkpoints
+
+---
+
 ## 📁 Folder Structure
 
