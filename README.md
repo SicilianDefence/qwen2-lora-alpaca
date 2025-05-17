@@ -43,7 +43,7 @@ Designed for real-world LLM applications on a compute budget. Ideal for educatio
 
 ## 📊 Evaluation Result
 
-Using 1,000 samples from the Alpaca dataset:
+Using 1,000 samples from the OpenAssistant dataset:
 
 | Metric       | Score  |
 |--------------|--------|
