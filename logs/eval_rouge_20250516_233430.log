@@ -1,0 +1,2 @@
+2025-05-16 23:34:30,841 - INFO - 🔍 Loading model dari: checkpoints/latest
+2025-05-16 23:34:31,511 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).

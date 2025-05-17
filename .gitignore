@@ -1,0 +1,5 @@
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+

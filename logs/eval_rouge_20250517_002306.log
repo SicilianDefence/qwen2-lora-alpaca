@@ -1,0 +1,11 @@
+2025-05-17 00:23:07,566 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-05-17 00:23:11,259 - INFO - 📥 Loading dataset OpenAssistant...
+2025-05-17 00:23:15,877 - INFO - 🚀 Generating output...
+2025-05-17 00:35:23,988 - INFO - 🧪 Evaluating ROUGE...
+2025-05-17 00:35:25,853 - INFO - Using default tokenizer.
+2025-05-17 00:35:26,281 - INFO - 📊 ROUGE Evaluation Result:
+2025-05-17 00:35:26,281 - INFO - rouge1: 0.2746
+2025-05-17 00:35:26,281 - INFO - rouge2: 0.1182
+2025-05-17 00:35:26,281 - INFO - rougeL: 0.1899
+2025-05-17 00:35:26,281 - INFO - rougeLsum: 0.2121
+2025-05-17 00:35:26,281 - INFO - ✅ Evaluasi selesai. Hasil log disimpan di: logs/eval_rouge_20250517_002306.log

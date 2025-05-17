@@ -1,0 +1,3 @@
+2025-05-16 23:44:43,303 - INFO - 🔍 Loading tokenizer dan base model: Qwen/Qwen2-1.5B-Instruct
+2025-05-16 23:44:44,771 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-05-16 23:44:47,595 - INFO - 🔧 Loading LoRA adapter dari: checkpoints/latest
