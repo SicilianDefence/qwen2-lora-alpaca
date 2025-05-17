@@ -63,9 +63,15 @@ Using 1,000 samples from the Alpaca dataset:
 - [x] 4-bit quantization with BitsAndBytes
 - [x] Prompt engineering and masking for causal LM
 - [x] Metric-based evaluation (ROUGE)
-- [x] Clean code organization with logging and checkpoints
 
 ---
 
 ## 📁 Folder Structure
-
+qwen2-lora-alpaca/
+├── train.py # Main training loop
+├── eval_rouge.py # Evaluation using ROUGE
+├── checkpoints/ # Saved adapter + tokenizer (excluded via .gitignore)
+├── tokenizer_config.json # Customized tokenizer
+├── logs/ # Training logs (excluded)
+├── requirements.txt
+└── README.md
